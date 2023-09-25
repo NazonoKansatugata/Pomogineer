@@ -1,24 +1,15 @@
-# README
+# 企画書 - Pomogineer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+- 各席のオンライン状態を可視化するツール
+- 各ユーザーそれぞれがポモドーロ・タイマーを使用可能
 
-Things you may want to cover:
+## 目的
+- IT企業などでは各ワーカーのオンライン状態が把握しづらく、話しかけるタイミングがわからないことが多い
+- エンジニアリングは休憩するタイミングを見失いがち
+- このツールを導入することで、各エンジニアのオンライン状態を可視化しつつ、エンジニアに適度な休憩を促す
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## マイルストーン
+- 10/7 - プロトタイプ発表会
+- 11/11 - コアイベント
+- 11/25 - コアイベント
